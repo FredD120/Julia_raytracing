@@ -8,7 +8,7 @@ The code can handle spheres and triangular meshes with simple bounding boxes, ho
 
 Some examples of rendering with this code:
 
-![Image 1](MyFirstProject/4thRaytracingV2Image.png)
-![Image 2](MyFirstProject/3rdRaytracingV2Image.png)
-![Image 3](MyFirstProject/2ndRaytracingV2Image.png)
-![Image 4](MyFirstProject/1stRaytracingV2Image.png)
+![Image 1](Julia_raytrace.png)
+![Image 2](improved_glass_tetrahedrons.png)
+![Image 3](Realistic_lighting.png)
+![Image 4](textured_spheres.png)
